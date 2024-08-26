@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 I'm Adewale Odetara
-- 🔭 I’m currently working as a Data Analyst
+- 🔭 I’m currently working as a Data Engineer
 - 🌱 I’m currently learning IBM Applied Data Science
 - 👯 I’m looking to collaborate on Data Science, Machine Learning and Artificial Intelligence
 - 💬 Ask me about: I’m a data analyst with 6 years of experience in data visualization, statistical analysis, and machine learning.
