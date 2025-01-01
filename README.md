@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 I'm Adewale Odetara
+- 👋 I'm Adewale Omotayo
 - 🔭 I’m currently working as a Data Engineer
 - 🌱 I’m currently learning IBM Applied Data Science
 - 👯 I’m looking to collaborate on Data Science, Machine Learning and Artificial Intelligence
